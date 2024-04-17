@@ -1,0 +1,15 @@
+2024-03-21 17:47:38.662 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:47:41.781 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:47:44.896 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:52:38.428 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:52:41.635 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running

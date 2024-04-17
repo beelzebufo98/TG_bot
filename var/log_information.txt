@@ -1,0 +1,23 @@
+2024-03-21 17:47:35.253 +03:00 [INF] DataFileBot запущен!
+2024-03-21 17:47:38.662 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:47:41.781 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:47:44.896 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:52:35.129 +03:00 [INF] DataFileBot запущен!
+2024-03-21 17:52:38.428 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:52:41.635 +03:00 [ERR] Telegram API Error:
+[409]
+Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-03-21 17:52:50.473 +03:00 [INF] DataFileBot запущен!
+2024-04-17 23:03:11.964 +03:00 [INF] DataFileBot запущен!
+2024-04-17 23:03:24.369 +03:00 [INF] User with id 518645772 completed CallbackQuery action loadCsv 
+2024-04-17 23:03:34.616 +03:00 [INF] User with id 518645772 completed CallbackQuery action downloadJson 
+2024-04-17 23:03:45.765 +03:00 [INF] User with id 518645772 completed CallbackQuery action mainMenu 
+2024-04-17 23:03:46.854 +03:00 [INF] User with id 518645772 completed CallbackQuery action loadJson 

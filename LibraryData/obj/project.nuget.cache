@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1raWpkI/zNYhs5LwtLEfQsJsJ3UugkJb/rSx4szusWJG5W64/eNJfPc2I4noQuoP3YTjrC9k+SoTt/99VvRlA==",
+  "success": true,
+  "projectFilePath": "D:\\НИУ ВШЭ\\проекты C#\\KDZ_bot\\KDZ_3_3\\LibraryData\\LibraryData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gevge\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
